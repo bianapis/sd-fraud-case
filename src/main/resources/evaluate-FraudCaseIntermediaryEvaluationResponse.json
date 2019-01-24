@@ -1,0 +1,11 @@
+{
+  "fraudModelModelReference" : "FMMR3469",
+  "fraudDetectionDiagnosisRecord" : {},
+  "fraudModelModel" : "Model 1",
+  "fraudDecisionReference" : "FDR78912",
+  "intermediaryEvaluationResult" : "intermediaryEvaluationResult",
+  "intermediaryFraudDecisionAnalysisReference" : "FCIR1598",
+  "fraudDetectionAnalysisRecord" : {},
+  "fraudDecisionRecord" : {},
+  "intermediaryFraudDecisionAnalysisRecord" : {}
+}

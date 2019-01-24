@@ -1,0 +1,11 @@
+{
+  "customerFraudDecisionAnalysisReference" : "FCCR7853",
+  "fraudModelModelReference" : "FMMR4523",
+  "fraudDetectionDiagnosisRecord" : {},
+  "fraudModelModel" : "Model 1",
+  "fraudDecisionReference" : "FDR78912",
+  "fraudDetectionAnalysisRecord" : {},
+  "fraudDecisionRecord" : {},
+  "customerFraudDecisionAnalysisRecord" : {},
+  "customerEvaluationResult" : "customerEvaluationResult"
+}
